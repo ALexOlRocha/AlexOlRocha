@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou AlexOlRocha 👋
 
-<!--
-**ALexOlRocha/AlexOlRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo HTML, CSS, JavaScript
+- 💼 Freelancer
+- 🎨 Criador de e-books
+- 📹 Criando um canal no YouTube sobre como jovens podem ganhar dinheiro na internet
 
-Here are some ideas to get you started:
+### Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/alex-alex-09645b2b7/)
+- [YouTube](https://www.youtube.com/channel/UCA9n___othhUrgxECKJbtcw)
+- [E-mail](alexoliveirarocha2006@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![GitHub followers](https://img.shields.io/github/followers/AlexOlRocha?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AlexOlRocha?style=social)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexOlRocha&show_icons=true&theme=radical)
+
+## Projetos Destacados
+- [Projeto 1](https://github.com/ALexOlRocha/Lagoon-Cafe) - O Lagon Cafe é uma loja virtual que combina a conveniência de uma lanchonete e uma cafeteria, proporcionando uma experiência única para os amantes de lanches e cafés. O projeto visa criar uma plataforma online onde os clientes possam explorar um menu variado, fazer pedidos e receber seus produtos favoritos no conforto de suas casas...
+- [Projeto 2](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella) - O Sistema Financeiro Enbella ajuda indivíduos e empresas do setor de saúde, beleza e estética a gerenciar finanças. Com uma interface amigável, permite rastrear despesas, planejar orçamentos e identificar economias. Simplifique sua gestão financeira com Enbella..
+
