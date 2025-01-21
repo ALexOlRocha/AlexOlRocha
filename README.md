@@ -7,8 +7,7 @@
 - 📹 Criando um canal no YouTube sobre como jovens podem ganhar dinheiro na internet
 
 ### Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/alex-alex-09645b2b7/)
-- [YouTube](https://www.youtube.com/channel/UCA9n___othhUrgxECKJbtcw)
+- [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
 - [E-mail](alexoliveirarocha2006@gmail.com)
 
 
