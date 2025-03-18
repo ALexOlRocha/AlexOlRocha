@@ -1,10 +1,9 @@
 # Olá, eu sou AlexOlRocha 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo Programação Web e Banco de Dados  
+- 🌱 Aprendendo Programação Web  
 - 💼 Freelancer
-- 🎨 Criador de e-books
-- 📹 Criando um canal no YouTube sobre como jovens podem ganhar dinheiro na internet
+- 📹 Desenvolvedor de Software
 
 ### Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
