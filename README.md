@@ -3,36 +3,30 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Fullstack;Sites%20Comerciais%20e%20Corporativos;Soluções%20Digitais%20Personalizadas&center=true&width=440&height=45&color=0AF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F9631F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Especialista+em+Landing+Pages+e+Sistemas;Amante+de+UX%2C+UI+e+Performance+Web" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
+
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🌱 Sou **Desenvolvedor Web Fullstack** com foco em tecnologias modernas
-- 💼 Atuo como **freelancer**, desenvolvendo soluções digitais para empresas de diversos setores
-- 🧠 Sempre aprendendo e aplicando novas tecnologias em projetos reais
-- 💡 Foco em **experiência do usuário**, performance, SEO e boas práticas de desenvolvimento
+- 💼 Atuando como **freelancer**, desenvolvendo sites, sistemas e landing pages
+- 🚀 Foco em performance, responsividade e experiência do usuário
+- 📈 Acredito na tecnologia como ferramenta de transformação para negócios
 
 ---
 
-### 🚀 Tecnologias que domino
+### 🚀 Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,git,html,css" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/AlexOlRocha?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AlexOlRocha?style=social)
@@ -52,19 +46,20 @@
 ### 💼 Projetos em Destaque
 
 - 🛠️ [MK Distribuidora](https://www.mkdistribuidora.com/)  
-  Distribuidora de materiais de construção com foco em logística ágil e presença digital forte. Criei toda a estrutura visual e funcional, com integração de formulários inteligentes, animações e design responsivo.
+  Distribuidora de materiais de construção com forte presença digital. Desenvolvi o site completo com foco em performance, formulário de contato inteligente e visual institucional moderno.
 
 - 🚗 [Jaguaris](https://www.jaguaris.com.br/)  
-  Landing page moderna para empresa automotiva com foco em performance, identidade visual impactante e SEO otimizado. Desenvolvida com Next.js, Tailwind e animações leves.
+  Landing page institucional voltada para o marketing digital e o crescimento estratégico de empresas. Desenvolvida com foco em performance, identidade visual impactante e conversão de visitantes em oportunidades de negócio.
+
 
 - 🔧 [Pedroni Tools](https://www.pedronitools.com.br/)  
-  Site institucional com catálogo de ferramentas. Estrutura pensada para escalar SEO e facilitar o contato com clientes.
+  Site institucional de uma empresa de ferramentas, com catálogo de produtos e estrutura pensada para SEO e performance comercial.
 
 - ☕ [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
-  Landing page para cafeteria com sistema de exibição de produtos e chamadas para ação. UX moderno e atrativo.
+  Landing page para cafeteria e lanchonete com cardápio visual, estrutura responsiva e experiência imersiva.
 
 - 💰 [Sistema Financeiro Enbella](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella)  
-  Sistema voltado para gerenciamento financeiro no setor de beleza e saúde. Inclui orçamentos, dashboards e relatórios.
+  Sistema voltado à gestão financeira no setor de beleza e saúde. Permite controle de receitas, despesas, relatórios e orçamentos.
 
 ---
 
