@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F9631F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Especialista+em+Landing+Pages+e+Sistemas;Amante+de+UX%2C+UI+e+Performance+Web" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alex+Oliveira+da+Rocha;Desenvolvedor+Web;Analista+de+sistemas" alt="Typing SVG" />
+</a>
+
 </p>
 
 ---
