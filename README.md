@@ -1,70 +1,76 @@
 <h1 align="center">
-  Olá, eu sou <span style="color:#f9631f">AlexOlRocha</span> 👋
+  👨‍💻 Alex Oliveira da Rocha
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alex+Oliveira+da+Rocha;Desenvolvedor+Web;Analista+de+sistemas" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg" alingn="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alex+Oliveira+da+Rocha;Desenvolvedor+Web;Analista+de+sistemas" alt="Typing SVG"  />
 </a>
 
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👋 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🌱 Sou **Desenvolvedor Web Fullstack** com foco em tecnologias modernas
-- 💼 Atuando como **freelancer**, desenvolvendo sites, sistemas e landing pages
-- 🚀 Foco em performance, responsividade e experiência do usuário
-- 📈 Acredito na tecnologia como ferramenta de transformação para negócios
+Me chamo **Alex Oliveira da Rocha**, sou de São Paulo e atuo como desenvolvedor fullstack freelancer. Tenho experiência na criação de **landing pages comerciais**, **sistemas web** e **sites institucionais** com foco em performance, SEO e visual profissional.
+
+Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos reais para empresas como **MK Distribuidora**, **Jaguaris** e **Pedroni Tools**.
 
 ---
 
 ### 🚀 Tecnologias que utilizo
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,git,html,css" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas
 
-![GitHub followers](https://img.shields.io/github/followers/AlexOlRocha?style=social)
-![GitHub stars](https://img.shields.io/github/stars/AlexOlRocha?style=social)
+<p>
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=AlexOlRocha&show_icons=true&theme=radical&locale=pt-br" />
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOlRocha&theme=radical&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=10" />
+</p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexOlRocha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOlRocha&layout=compact&theme=radical)
-
----
-
-### 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexoliveirarocha2006@gmail.com)
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
-### 💼 Projetos em Destaque
+### 🌍 Projetos em Destaque
 
 - 🛠️ [MK Distribuidora](https://www.mkdistribuidora.com/)  
-  Distribuidora de materiais de construção com forte presença digital. Desenvolvi o site completo com foco em performance, formulário de contato inteligente e visual institucional moderno.
+  Distribuidora de materiais de construção com visual moderno, formulários inteligentes e estrutura pensada para conversão de fornecedores e clientes.
 
 - 🚗 [Jaguaris](https://www.jaguaris.com.br/)  
-  Landing page institucional voltada para o marketing digital e o crescimento estratégico de empresas. Desenvolvida com foco em performance, identidade visual impactante e conversão de visitantes em oportunidades de negócio.
-
+  Landing page institucional voltada para o marketing digital e o crescimento estratégico de empresas. Foco em performance e identidade visual forte.
 
 - 🔧 [Pedroni Tools](https://www.pedronitools.com.br/)  
-  Site institucional de uma empresa de ferramentas, com catálogo de produtos e estrutura pensada para SEO e performance comercial.
+  Site institucional com catálogo de ferramentas e estrutura pensada para SEO e responsividade.
 
 - ☕ [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
-  Landing page para cafeteria e lanchonete com cardápio visual, estrutura responsiva e experiência imersiva.
+  Landing page moderna com foco em usabilidade e apresentação visual de produtos de cafeteria.
 
 - 💰 [Sistema Financeiro Enbella](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella)  
-  Sistema voltado à gestão financeira no setor de beleza e saúde. Permite controle de receitas, despesas, relatórios e orçamentos.
+  Sistema de controle financeiro completo voltado ao setor de beleza e estética, com dashboards e relatórios.
 
 ---
+
+### 📬 Contato
+
+- 📧 [alexoliveirarocha2006@gmail.com](mailto:alexoliveirarocha2006@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2f58&height=100&section=footer"/>
