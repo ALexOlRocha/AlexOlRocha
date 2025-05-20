@@ -37,12 +37,6 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecim
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=AlexOlRocha&show_icons=true&theme=radical&locale=pt-br" />
-  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOlRocha&theme=radical&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=10" />
-</p>
 
 <br/><br/><br/><br/><br/><br/>
 
