@@ -38,12 +38,6 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecim
 ---
 
 
-<br/><br/><br/><br/><br/><br/>
-
----
-
-
-
 - 🛠️ [MK Distribuidora](https://www.mkdistribuidora.com/)  
   Distribuidora de materiais de construção com visual moderno, formulários inteligentes e estrutura pensada para conversão de fornecedores e clientes.
 
