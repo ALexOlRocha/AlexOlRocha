@@ -14,7 +14,7 @@
 
 ### 👋 Sobre mim
 
-Me chamo **Alex Oliveira da Rocha**, sou de São Paulo e atuo como desenvolvedor fullstack freelancer. Tenho experiência na criação de **landing pages comerciais**, **sistemas web** e **sites institucionais** com foco em performance, SEO e visual profissional.
+Me chamo **Alex Oliveira da Rocha**, sou de São Paulo e atuo como desenvolvedor fullstack. Tenho experiência na criação de **landing pages comerciais**, **sistemas web** e **sites institucionais** com foco em performance, SEO e visual profissional além de automações.
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos reais para empresas como **MK Distribuidora**, **Jaguaris** e **Pedroni Tools**.
 
