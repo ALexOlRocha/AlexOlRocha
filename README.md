@@ -50,7 +50,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecim
 - [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
   Landing page moderna com foco em usabilidade e apresentação visual de produtos de cafeteria.
 
-- [Sistema Financeiro Enbella](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella)  
+- [Sistema Financeiro Enbella](https://alexolrocha.github.io/Controle-Financeiro-Enbella/)  
   Sistema de controle financeiro completo voltado ao setor de beleza e estética, com dashboards e relatórios.
 
 ---
