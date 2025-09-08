@@ -38,19 +38,19 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecim
 ---
 
 
-- 🛠️ [MK Distribuidora](https://www.mkdistribuidora.com/)  
+- [MK Distribuidora](https://www.mkdistribuidora.com/)  
   Distribuidora de materiais de construção com visual moderno, formulários inteligentes e estrutura pensada para conversão de fornecedores e clientes.
 
-- 🚗 [Jaguaris](https://www.jaguaris.com.br/)  
+- [Jaguaris](https://www.jaguaris.com.br/)  
   Landing page institucional voltada para o marketing digital e o crescimento estratégico de empresas. Foco em performance e identidade visual forte.
 
-- 🔧 [Pedroni Tools](https://www.pedronitools.com.br/)  
+- [Pedroni Tools](https://www.pedronitools.com.br/)  
   Site institucional com catálogo de ferramentas e estrutura pensada para SEO e responsividade.
 
-- ☕ [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
+- [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
   Landing page moderna com foco em usabilidade e apresentação visual de produtos de cafeteria.
 
-- 💰 [Sistema Financeiro Enbella](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella)  
+- [Sistema Financeiro Enbella](https://github.com/ALexOlRocha/Sistema-financeiro-Enbella)  
   Sistema de controle financeiro completo voltado ao setor de beleza e estética, com dashboards e relatórios.
 
 ---
