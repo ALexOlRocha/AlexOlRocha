@@ -55,10 +55,10 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecim
 
 ---
 
-### 📬 Contato
+###  Contato
 
-- 📧 [alexoliveirarocha2006@gmail.com](mailto:alexoliveirarocha2006@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
+- [alexoliveirarocha2006@gmail.com](mailto:alexoliveirarocha2006@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2f58&height=100&section=footer"/>
