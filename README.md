@@ -54,23 +54,6 @@ Sou <strong>Alex Oliveira da Rocha</strong>, desenvolvedor fullstack baseado em 
 
 ---
 
-## 💼 Projetos em Destaque
-
-### 🏢 **Projetos Comerciais**
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[MK Distribuidora](https://www.mkdistribuidora.com/)** | Site institucional para distribuidora de materiais de construção com formulários inteligentes e foco em conversão | HTML, CSS, JS, SEO |
-| **[Jaguaris](https://www.jaguaris.com.br/)** | Landing page para marketing digital com identidade visual forte e performance otimizada | React, Tailwind, TypeScript |
-| **[Pedroni Tools](https://www.pedronitools.com.br/)** | Site institucional com catálogo de ferramentas e SEO avançado | Next.js, PostgreSQL, Tailwind |
-
-### 🔧 **Projetos Técnicos**
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| **[Sistema Financeiro Enbella](https://alexolrocha.github.io/Controle-Financeiro-Enbella/)** | Sistema completo de controle financeiro para o setor de beleza e estética | React, TypeScript, Chart.js |
-| **[Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)** | Landing page moderna para cafeteria com foco em usabilidade e design | HTML, CSS, JavaScript |
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
