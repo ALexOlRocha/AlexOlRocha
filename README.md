@@ -1,64 +1,99 @@
-<h1 align="center">
-  👨‍💻 Alex Oliveira da Rocha
+
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=265&lines=Alex+Oliveira+da+Rocha;Desenvolvedor+Full+Stack;Analista+de+sistemas" alt="Typing SVG"  />
+  </a>
 </h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alex+Oliveira+da+Rocha;Desenvolvedor+Web;Analista+de+sistemas" alt="Typing SVG"  />
-</a>
-
+  <a href="https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alexoliveirarocha2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ALexOlRocha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt GitHub" />
   </a>
 </p>
 
 ---
 
-### 👋 Sobre mim
+## 🚀 Sobre Mim
 
-Me chamo **Alex Oliveira da Rocha**, sou de São Paulo e atuo como desenvolvedor fullstack. Tenho experiência na criação de **landing pages comerciais**, **sistemas web** e **sites institucionais** com foco em performance, SEO e visual profissional além de automações.
-
-Estou cursando **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos reais para empresas como **MK Distribuidora**, **Jaguaris** e **Pedroni Tools**.
-
----
-
-### 🚀 Tecnologias que utilizo
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
+<p align="justify">
+Sou <strong>Alex Oliveira da Rocha</strong>, desenvolvedor fullstack baseado em São Paulo com expertise em criar soluções web modernas e eficientes. Atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, aplico conhecimentos acadêmicos em projetos reais, desenvolvendo landing pages comerciais, sistemas web e sites institucionais com foco em performance, SEO e experiência do usuário.
 </p>
 
 ---
 
+## 🛠️ Stack Tecnológico
 
-- [MK Distribuidora](https://www.mkdistribuidora.com/)  
-  Distribuidora de materiais de construção com visual moderno, formulários inteligentes e estrutura pensada para conversão de fornecedores e clientes.
+### **Frontend & Design**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-- [Jaguaris](https://www.jaguaris.com.br/)  
-  Landing page institucional voltada para o marketing digital e o crescimento estratégico de empresas. Foco em performance e identidade visual forte.
+### **Backend & Banco de Dados**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-- [Pedroni Tools](https://www.pedronitools.com.br/)  
-  Site institucional com catálogo de ferramentas e estrutura pensada para SEO e responsividade.
-
-- [Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)  
-  Landing page moderna com foco em usabilidade e apresentação visual de produtos de cafeteria.
-
-- [Sistema Financeiro Enbella](https://alexolrocha.github.io/Controle-Financeiro-Enbella/)  
-  Sistema de controle financeiro completo voltado ao setor de beleza e estética, com dashboards e relatórios.
+### **Ferramentas & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-###  Contato
+## 💼 Projetos em Destaque
 
-- [alexoliveirarocha2006@gmail.com](mailto:alexoliveirarocha2006@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/)
+### 🏢 **Projetos Comerciais**
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[MK Distribuidora](https://www.mkdistribuidora.com/)** | Site institucional para distribuidora de materiais de construção com formulários inteligentes e foco em conversão | HTML, CSS, JS, SEO |
+| **[Jaguaris](https://www.jaguaris.com.br/)** | Landing page para marketing digital com identidade visual forte e performance otimizada | React, Tailwind, TypeScript |
+| **[Pedroni Tools](https://www.pedronitools.com.br/)** | Site institucional com catálogo de ferramentas e SEO avançado | Next.js, PostgreSQL, Tailwind |
+
+### 🔧 **Projetos Técnicos**
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| **[Sistema Financeiro Enbella](https://alexolrocha.github.io/Controle-Financeiro-Enbella/)** | Sistema completo de controle financeiro para o setor de beleza e estética | React, TypeScript, Chart.js |
+| **[Lagoon Café](https://github.com/ALexOlRocha/Lagoon-Cafe)** | Landing page moderna para cafeteria com foco em usabilidade e design | HTML, CSS, JavaScript |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALexOlRocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexOlRocha&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+## 📫 Vamos Conversar?
+
+<p align="center">
+  Estou sempre aberto a novas oportunidades e colaborações! Sinta-se à vontade para entrar em contato:
+</p>
+
+<p align="center">
+  <a href="mailto:alexoliveirarocha2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20envie%20um%20email!-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alex-oliveira-da-rocha-09645b2b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a2f58&height=100&section=footer"/>
