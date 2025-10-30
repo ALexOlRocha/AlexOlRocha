@@ -44,6 +44,7 @@ Sou <strong>Alex Oliveira da Rocha</strong>, desenvolvedor fullstack baseado em 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/a5437581466397bfa3066cb55e6a0bbdd58b1dcfe0c4d4b107796ac13e3fdf3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d6130383032313f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d666663643334" />
 </p>
 
 ### **Ferramentas & DevOps**
